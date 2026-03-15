@@ -1,4 +1,4 @@
-# Unity VR Experiment: Dual-Target Interaction Study
+# Unity VR Experiment: Sustained Attention Offline version (Fixed Difficulty)
 
 A Unity-based experimental framework designed for cognitive load and reaction time research. This system manages object spawning, trial timing, and synchronized data streaming via **Lab Streaming Layer (LSL)**.
 
